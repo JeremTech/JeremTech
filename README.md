@@ -3,13 +3,13 @@
 French developper, mainly C# and Java !
 
 ### My projects
-#### ![Forge Modding Helper](https://github.com/JeremTech/Forge-Modding-Helper)
+#### [Forge Modding Helper](https://github.com/JeremTech/Forge-Modding-Helper)
 Utility tool to manage Minecraft Forge's Workspaces
 
-#### ![McModAPIVersion](https://github.com/JeremTech/McModAPIVersions)
+#### [McModAPIVersion](https://github.com/JeremTech/McModAPIVersions)
 .Net library that allow to retrieve Forge and Fabric API informations like available versions or download links
 
-#### ![Dofuscraft](https://github.com/JeremTech/McModAPIVersions) (Discontinued)
+#### [Dofuscraft](https://github.com/JeremTech/McModAPIVersions) (Discontinued)
 Minecraft mods who recreate Dofus' universe in Minecraft
 
 ### Skills
