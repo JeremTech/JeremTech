@@ -9,7 +9,7 @@ Utility tool to manage Minecraft Forge's Workspaces
 #### [McModAPIVersion](https://github.com/JeremTech/McModAPIVersions)
 .Net library that allow to retrieve Forge and Fabric API informations like available versions or download links
 
-#### [Dofuscraft](https://github.com/JeremTech/McModAPIVersions) (Discontinued)
+#### [Dofuscraft](https://github.com/JeremTech/dofuscraft) (Discontinued)
 Minecraft mods who recreate Dofus' universe in Minecraft
 
 ### Skills
