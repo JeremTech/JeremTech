@@ -1,13 +1,11 @@
 ## JeremTech
 
-French developper, mainly C# and Java !
-
 ### My projects
 #### [Forge Modding Helper](https://github.com/JeremTech/Forge-Modding-Helper)
 Utility tool to manage Minecraft Forge's Workspaces
 
 #### <img width ='32px' src ='https://raw.githubusercontent.com/JeremTech/McVersionsLib/main/icon.png'> [McVersionsLib](https://github.com/JeremTech/McVersionsLib)   
-.Net library which provides Minecraft, Fabric and Minecraft Forge versions data
+.Net library which provides Minecraft, Fabric, NeoForge and Minecraft Forge versions data
 
 #### [McModAPIVersion](https://github.com/JeremTech/McModAPIVersions) (Discontinued)
 .Net library that allow to retrieve Forge and Fabric API informations like available versions or download links
